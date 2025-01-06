@@ -1,0 +1,18 @@
+# Arduino/PlatformIO related
+.ino.*
+*.elf
+*.bin
+*.hex
+.pio
+secrets.h
+secrets.ini
+.vscode
+
+# KiCad related
+*.bak
+*.tmp
+*.net
+*-cache.lib
+
+# Misc
+.DS_Store
